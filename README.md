@@ -28,6 +28,8 @@ O sistema integra sensores, atuadores e feedback visual e sonoro para simular um
 
 A senha é inserida através de múltiplos cliques em um botão, com timeout entre cada dígito.
 
+A senha é definida pela sequência numérica 2, 1, 3.
+
 ### ✅ Validação
 
 O sistema compara a sequência inserida com a senha pré-definida.
@@ -66,6 +68,14 @@ Caso seja detectada luz com o cofre fechado, o sistema interpreta como tentativa
 <p align="center">
   <img src="imagens/Projeto IoT.png" width="700" height="650">
 </p>
+
+
+## 📷 Implementação manual
+
+<p align="center">
+  <img src="imagens/IMG_6513.jpeg" width="450" height="400">
+</p>
+
 
 ---
 
